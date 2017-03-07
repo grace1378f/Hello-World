@@ -1,3 +1,2 @@
 # Hello-World
-Hi!
-I just joined the UIDD yesterday!
+I just joined the UIDD today!
