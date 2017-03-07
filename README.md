@@ -1,2 +1,2 @@
 # Hello-World
-I am a NEW student of UIDD
+I just joined the UIDD today!
